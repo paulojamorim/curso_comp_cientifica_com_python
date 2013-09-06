@@ -27,6 +27,6 @@ Material do mini-curso de "Computação Científica com Python" (Only portuguese
 * [python-setuptools](http://www.lfd.uci.edu/~gohlke/pythonlibs/#setuptools "python-setuptools")
 * [python-pip](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pip "python-pip")
 * pip install scikit-learn
-    * É necessário executar o comando do prompt de comando do visual c++
+    * É necessário executar o comando a partir do prompt de comando do visual c++.
 * pip install scikit-image
-    * É necessário executar o comando do prompt de comando do visual c++
+    * É necessário executar o comando a partir do prompt de comando do visual c++.
