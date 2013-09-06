@@ -9,7 +9,9 @@ Material do mini-curso de "Computação Científica com Python" (Only portuguese
 * sudo apt-get build-dep python-scipy
 * sudo pip install scikit-learn
 * sudo pip install scikit-image
+
 ### Windows
+
 * [python](http://www.python.org/download/releases/2.6/ "python")
     1. Recomendo baixar a versão 2.6. É necessários baixar os pacotes (abaixo) de acordo com a versão do python instalada.
     2. Execute o instalador, configure a variável de ambiente da seguinte maneira:
