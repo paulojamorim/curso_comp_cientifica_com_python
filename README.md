@@ -19,7 +19,7 @@ Material do mini-curso de "Computação Científica com Python" (Only portuguese
         2. Em variáveis do sistema, clique no botão "Nova" em "Nome da variável" preencha **PYTHONPATH** e em "Valor da variável" **C:\Python26;C:\Python26\Lib\site-packages;C:\Python26\Lib\;**
         3. Na variável Path, adicione: **,%PYTHONPATH%**
         4. Para testar abra o DOS e digite: python
-* [Visual C++ Express](http://download.microsoft.com/download/A/5/4/A54BADB6-9C3F-478D-8657-93B3FC9FE62D/vcsetup.exe "Visual C++") (para compilar o scikit-learn e scikit-image)
+* [visual c++ express](http://download.microsoft.com/download/A/5/4/A54BADB6-9C3F-478D-8657-93B3FC9FE62D/vcsetup.exe "visual c++") (para compilar o scikit-learn e scikit-image)
 * [numpy](http://sourceforge.net/projects/numpy/files/NumPy/ "numpy")
 * [scipy](http://sourceforge.net/projects/scipy/files/scipy/ "scipy")
 * [matplotlib](http://matplotlib.org/downloads.html "matplotlib")
